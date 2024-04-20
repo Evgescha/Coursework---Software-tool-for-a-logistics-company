@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Software_tool_for_a_logistics_company.Brand">
+    <Position X="10" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAJAAgCAABAMAIACMMEASAAhAAIAAAKAAAQABAAA=</HashCode>
+      <FileName>Brand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_tool_for_a_logistics_company.Driver">
+    <Position X="5.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQQJ0AgCBJBCOFYAOksE8SABgACEoYACCCAAABBAQ=</HashCode>
+      <FileName>Driver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_tool_for_a_logistics_company.Firm">
+    <Position X="22.5" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQANAAgCAABAMAoACEMEASAAgCAAAAACBAAAABAAA=</HashCode>
+      <FileName>Firm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_tool_for_a_logistics_company.Main">
+    <Position X="9.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAACECAAAAAAAAiAAAAiAMA5AAQAAHAOAAAAAAQ=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_tool_for_a_logistics_company.MaxOrderCount">
+    <Position X="21" Y="5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAIIAACAAAAABAAGEAAACAAgEAAAIAAAAAAAABAI=</HashCode>
+      <FileName>MaxOrderCountByDriver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_tool_for_a_logistics_company.MaxOrderCountByTrailer">
+    <Position X="21" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIIAACAAAAIAAACEAAgCAAgEAAgAAQAAAEAAAAI=</HashCode>
+      <FileName>MaxOrderCountByTrailer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_tool_for_a_logistics_company.Order">
+    <Position X="13" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQQJAEgCAABAMEYAOEsEgSAAoYAAoYAGACAAABBAA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_tool_for_a_logistics_company.Program">
+    <Position X="11.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_tool_for_a_logistics_company.SummaryMoney">
+    <Position X="13.25" Y="10.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAQAIAACAAAAACQACEAAACAAgIACAACEAAIAAAAAA=</HashCode>
+      <FileName>SummaryMoney.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software_tool_for_a_logistics_company.Trailer">
+    <Position X="16.75" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>gAAQQN0AgiJADCME4AOEsE8SAFiaCMoYAOACAQABBAA=</HashCode>
+      <FileName>Trailer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,32 @@
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software_tool_for_a_logistics_company.Brand.resources
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software_tool_for_a_logistics_company.Driver.resources
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software_tool_for_a_logistics_company.Firm.resources
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software_tool_for_a_logistics_company.Main.resources
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software_tool_for_a_logistics_company.Order.resources
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software_tool_for_a_logistics_company.Properties.Resources.resources
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software_tool_for_a_logistics_company.Trailer.resources
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software tool for a logistics company.csproj.GenerateResource.cache
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software tool for a logistics company.csproj.CoreCompileInputs.cache
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\Software tool for a logistics company.exe.config
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\Software tool for a logistics company.exe
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\Software tool for a logistics company.pdb
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\BouncyCastle.Crypto.dll
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\Google.Protobuf.dll
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\MySql.Data.dll
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\Renci.SshNet.dll
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\Ubiety.Dns.Core.dll
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\Zstandard.Net.dll
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\K4os.Compression.LZ4.dll
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\K4os.Hash.xxHash.dll
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\System.Buffers.dll
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\System.Memory.dll
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\bin\Debug\MySql.Data.xml
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software tool for a logistics company.csprojAssemblyReference.cache
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software tool for a logistics company.csproj.CopyComplete
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software tool for a logistics company.exe
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software tool for a logistics company.pdb
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software_tool_for_a_logistics_company.MaxOrderCount.resources
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software_tool_for_a_logistics_company.MaxOrderCountByTrailer.resources
+D:\Program Files\visual-studio-workspace\Software tool for a logistics company\obj\Debug\Software_tool_for_a_logistics_company.SummaryMoney.resources
